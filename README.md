@@ -1,7 +1,7 @@
-# PrimeiroProjetoSpring
+# Projeto CRUD Professor
 CRUD professor. 
 
-Tecnologias utilizadas: Thymeleaf, MySQL, Spring, Bootstrap.
+Tecnologias utilizadas: Thymeleaf, MySQL, Spring, Bootstrap, Hibernate
 
 Campos validados.
 
